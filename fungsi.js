@@ -16,3 +16,5 @@ console.log(devide(9, 3));
 // --reset;
 
 // --revert;
+
+console.log(add(5, 2));
