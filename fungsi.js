@@ -17,4 +17,5 @@ console.log(devide(9, 3));
 
 // --revert;
 
-console.log(add(5, 2));
+const mathShin = (number) => Math.sin(number);
+console.log(mathShin(10));
